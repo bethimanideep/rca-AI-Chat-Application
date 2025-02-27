@@ -1,0 +1,3 @@
+1) Openai cant output [ sensitive Credentials] - Use other LLM - grok 
+2) Try with any local vector db - ? weavite
+3) Need optimized OCR Extraction [Alternative For tessaract.js] - ?
